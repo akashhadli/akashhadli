@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Smart Ticketing System using ReactJS<br>👯 I’m looking to collaborate on React<br>🌱 I’m currently learning React Native, NextJS, ThreeJS & GSAP<br>
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on ReactJS<br>🌱 I’m currently learning Spring and SpringBoot<br>
 
 
 ## 🌐 Socials:
